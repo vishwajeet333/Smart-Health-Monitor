@@ -15,9 +15,7 @@ TABLE OF CONTENTS
 11. [Code Complexity Analysis]
 12. [Future Enhancements]
 
-
-
-1. PROJECT OVERVIEW
+1 PROJECT OVERVIEW
 
 1.1 Problem Statement
 Many individuals track health data manually but lack tools to:
