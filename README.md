@@ -2,18 +2,19 @@ SMART HEALTH MONITOR - PROJECT DOCUMENTATION
 
 TABLE OF CONTENTS
 
-1. [Project Overview](#1-project-overview)
-2. [System Architecture](#2-system-architecture)
-3. [Data Structures](#3-data-structures)
-4. [Program Flow & Logic](#4-program-flow--logic)
-5. [Algorithm Explanations](#5-algorithm-explanations)
-6. [Function Documentation](#6-function-documentation)
-7. [Input/Output Specifications](#7-inputoutput-specifications)
-8. [Medical Standards & Thresholds](#8-medical-standards--thresholds)
-9. [Error Handling](#9-error-handling)
-10. [Testing & Validation](#10-testing--validation)
-11. [Code Complexity Analysis](#11-code-complexity-analysis)
-12. [Future Enhancements](#12-future-enhancements)
+1. [Project Overview]
+2. [System Architecture]
+3. [Data Structures]
+4. [Program Flow & Logic]
+5. [Algorithm Explanations]
+6. [Function Documentation]
+7. [Input/Output Specifications]
+8. [Medical Standards & Thresholds]
+9. [Error Handling]
+10. [Testing & Validation]
+11. [Code Complexity Analysis]
+12. [Future Enhancements]
+
 
 
 1. PROJECT OVERVIEW
